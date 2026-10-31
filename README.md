@@ -1,5 +1,7 @@
 # Digital Communication System Simulation using MATLAB
 
+<img width="952" height="652" alt="image" src="https://github.com/user-attachments/assets/b951ec93-f2e3-43a6-bad7-bd077588b2c0" />
+
 **Digital Modulation | PAM & QAM | AWGN Channel | BER Analysis | Pulse Shaping**
 
 ## Overview
